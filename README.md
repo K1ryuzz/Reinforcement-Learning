@@ -1,7 +1,7 @@
 # Reinforcement-Learning
 The Path of Reinforcement Learning
 
-Related papers for Reinforcement Learning (we mainly focus on Imitation learning).
+Related papers for Reinforcement Learning (We mainly focus on Imitation learning).
 ## Contents 
 * [Goal-conditioned Imitation Learning + Diffusion + Feature](#Goal-conditioned-Imitation-Learning+Diffusion+Feature)
     - [Goal-conditioned BC + GAIL](#Goal-conditioned-（BC+GAIL）)
