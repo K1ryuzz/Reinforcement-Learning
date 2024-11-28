@@ -50,13 +50,13 @@ Related papers for Reinforcement Learning (We mainly focus on Imitation learning
 ## NeurIPS2019
 | Paper | Type |
 | ---- | ---- |
-| [Goal-conditioned Imitation Learnin](https://arxiv.org/abs/1906.05838) | oral |
+| [Goal-conditioned Imitation Learnin](https://arxiv.org/abs/1906.05838) | poster |
 
 <a id='RSS-2023'></a>
 ## RSS-2023
 | Paper | Type |
 | ---- | ---- |
-| [Goal Conditioned Imitation Learning using Score-based Diffusion Policies](https://arxiv.org/pdf/2304.02532) | oral |
+| [Goal Conditioned Imitation Learning using Score-based Diffusion Policies](https://arxiv.org/pdf/2304.02532) | poster |
 
 <a id='AAAI-2024'></a>
 ## AAAI-2024
