@@ -3,6 +3,7 @@ The Path of Reinforcement Learning
 
 Related papers for Reinforcement Learning (We mainly focus on Imitation learning).
 ## Contents 
+* [Baseline](#Baseline)
 * [Goal-conditioned Imitation Learning + Diffusion + Feature](#Goal-conditioned-Imitation-Learning+Diffusion+Feature)
     - [Goal-conditioned BC + GAIL](#Goal-conditioned-（BC+GAIL）)
     - [Diffusion](#Diffusion)
@@ -10,7 +11,6 @@ Related papers for Reinforcement Learning (We mainly focus on Imitation learning
 * [NeurIPS-2019](#NeurIPS-2019)
 * [RSS-2023](#RSS-2023)
 * [AAAI-2024](#AAAI-2024)
-* [Baseline](#Baseline)
 
 <a id='Baseline'></a>
 ## Baseline
