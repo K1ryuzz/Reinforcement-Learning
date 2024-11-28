@@ -10,7 +10,15 @@ Related papers for Reinforcement Learning (We mainly focus on Imitation learning
 * [NeurIPS-2019](#NeurIPS-2019)
 * [RSS-2023](#RSS-2023)
 * [AAAI-2024](#AAAI-2024)
+* [Baseline](#Baseline)
 
+<a id='Baseline'></a>
+## Baseline
+| Paper | Methods |
+| ---- | ---- |
+| [Goal-conditioned Imitation Learnin](https://arxiv.org/abs/1906.05838) | Goal-conditioned IL(BC + GAIL) |
+| [DiffAIL: Diffusion Adversarial Imitation Learning](https://arxiv.org/abs/2312.06348) | GAIL + Diffusion |
+| [Goal Conditioned Imitation Learning using Score-based Diffusion Policies](https://arxiv.org/pdf/2304.02532) | Goal-conditioned IL + Diffusion |
   
 <a id='Goal-conditioned-Imitation-Learning+Diffusion+feature'></a>
 ## Goal-conditioned Imitation Learning + Diffusion + feature
