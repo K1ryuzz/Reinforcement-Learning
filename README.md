@@ -30,7 +30,7 @@ Related papers for Reinforcement Learning (We mainly focus on Imitation learning
 
 |  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
 | ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
-| [Goal-conditioned Imitation Learning](https://arxiv.org/abs/1906.05838) | Goal-BC and Goalgail | NeurIPS2019 |  |  |  |  |
+| [Goal-conditioned Imitation Learning](https://arxiv.org/abs/1906.05838) | Goal-BC and Goal-gail | NeurIPS2019 |  |  |  |  |
 
 <a id='Diffusion'></a>
 ### Diffusion
