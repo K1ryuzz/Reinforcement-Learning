@@ -9,7 +9,7 @@ Related papers for Reinforcement Learning (we mainly focus on Imitation learning
 * [NeurIPS-2019](#NeurIPS-2019)
 * [AAAI-2024](#AAAI-2024)
 * [RSS-2023](#RSS-2023)
-* 
+  
 <a id='Goal-conditioned-Imitation-Learning+Diffusion+feature'></a>
 ## Goal-conditioned Imitation Learning + Diffusion + feature
 <!-- ## <span id='Model-Free-Online'>Model Free (Online) RL</span>
