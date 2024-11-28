@@ -1,4 +1,4 @@
-# Reinforcement-learning
+# Reinforcement-Learning
 The Path of Reinforcement Learning
 Related papers for Reinforcement Learning (we mainly focus on Imitation learning).
 ## Contents 
