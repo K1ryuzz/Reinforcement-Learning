@@ -2,13 +2,41 @@
 The Path of Reinforcement Learning
 Related papers for Reinforcement Learning (we mainly focus on Imitation learning).
 ## Contents 
-* [Goal-conditioned Imitation Learning + diffusion + feature](#)
-    - [Goal-conditioned BC + GAIL ](#model-based-classic)
+* [Goal-conditioned Imitation Learning + Diffusion + feature](#Goal-conditioned-Imitation-Learning+Diffusion+feature)
+    - [Goal-conditioned BC + GAIL](#Goal-conditioned-（BC+GAIL）)
     - [Diffusion](#Diffusion)
-    - [Learning feature](Learning feature)
+    - [Learning feature](#Learning-feature)
 * [NeurIPS2019](#NeurIPS2019)
 * [AAAI2024](#AAAI2024)
 * [RSS2023](#RSS2023)
+* 
+<a id='Goal-conditioned-Imitation-Learning+Diffusion+feature'></a>
+## Goal-conditioned Imitation Learning + Diffusion + feature
+<!-- ## <span id='Model-Free-Online'>Model Free (Online) RL</span>
+### <span id='classic'>Classic Methods</span> -->
+
+<a id='Goal-conditioned-（BC+GAIL）'></a>
+### Goal-conditioned BC + GAIL
+
+|  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
+| ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
+| [Goal-conditioned Imitation Learning](https://arxiv.org/abs/1906.05838) | Goal-BC and Goalgail | NeurIPS2019 | off | Discrete | based on value function | use deep neural network to train q learning and reach the human level in the Atari games; mainly two trick: replay buffer for improving sample efficiency, decouple target network and behavior network |
+
+<a id='Diffusion'></a>
+### Diffusion
+
+|  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
+| ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
+| [DiffAIL: Diffusion Adversarial Imitation Learning](https://arxiv.org/abs/2312.06348) | DiffAIL | AAAI2024 | off | Discrete | based on value function | use deep neural network to train q learning and reach the human level in the Atari games; mainly two trick: replay buffer for improving sample efficiency, decouple target network and behavior network |
+
+<a id='model-free-classic'></a>
+### Learning-feature
+
+|  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
+| ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
+| | DQN | Nature15 | off | Discrete | based on value function | use deep neural network to train q learning and reach the human level in the Atari games; mainly two trick: replay buffer for improving sample efficiency, decouple target network and behavior network |
+
+
 <a id='NeurIPS2019'></a>
 ## NeurIPS2019
 | Paper | Type |
