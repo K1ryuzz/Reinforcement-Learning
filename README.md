@@ -20,21 +20,21 @@ Related papers for Reinforcement Learning (we mainly focus on Imitation learning
 
 |  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
 | ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
-| [Goal-conditioned Imitation Learning](https://arxiv.org/abs/1906.05838) | Goal-BC and Goalgail | NeurIPS2019 | off | Discrete | based on value function | use deep neural network to train q learning and reach the human level in the Atari games; mainly two trick: replay buffer for improving sample efficiency, decouple target network and behavior network |
+| [Goal-conditioned Imitation Learning](https://arxiv.org/abs/1906.05838) | Goal-BC and Goalgail | NeurIPS2019 |  |  |  |  |
 
 <a id='Diffusion'></a>
 ### Diffusion
 
 |  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
 | ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
-| [DiffAIL: Diffusion Adversarial Imitation Learning](https://arxiv.org/abs/2312.06348) | DiffAIL | AAAI2024 | off | Discrete | based on value function | use deep neural network to train q learning and reach the human level in the Atari games; mainly two trick: replay buffer for improving sample efficiency, decouple target network and behavior network |
+| [DiffAIL: Diffusion Adversarial Imitation Learning](https://arxiv.org/abs/2312.06348) | DiffAIL | AAAI2024 |  |  |  |  |
 
 <a id='Learning-Feature'></a>
 ### Learning-Feature
 
 |  Title | Method | Conference | on/off policy | Action Space | Policy | Description |
 | ----  | ----   | ----       |   ----  | ----  |  ---- |  ---- | 
-| | DQN | Nature15 | off | Discrete | based on value function | use deep neural network to train q learning and reach the human level in the Atari games; mainly two trick: replay buffer for improving sample efficiency, decouple target network and behavior network |
+|  |  |  |  |  |  |  |
 
 <a id='NeurIPS2019'></a>
 ## NeurIPS2019
